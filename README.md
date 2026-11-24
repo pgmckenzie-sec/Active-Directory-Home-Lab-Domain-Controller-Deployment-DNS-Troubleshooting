@@ -1,4 +1,7 @@
 # Active-Directory-Home-Lab-Domain-Controller-Deployment-DNS-Troubleshooting
+
+# Active-Directory-Home-Lab-Domain-Controller-Deployment-DNS-Troubleshooting
+
 ## 📌 Overview
 
 This project documents the deployment, configuration, and troubleshooting of a Windows Active Directory home lab environment. The objective was to gain hands-on experience with enterprise identity management, DNS services, Windows domain administration, and endpoint integration.
